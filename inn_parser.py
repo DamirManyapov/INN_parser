@@ -4,7 +4,7 @@
 import json
 import requests
 
-API_KEY = "e61923db5b61157865f98a3584d3250e062e8cab"
+API_KEY = "API_KEY_DADATA"
 BASE_URL = "https://suggestions.dadata.ru/suggestions/api/4_1/rs/suggest/{}"
 
 def suggest(query, resource, count=10):
