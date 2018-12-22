@@ -4,8 +4,8 @@
 import json
 import requests
 
-API_KEY = "e61923db5b61157865f98a3584d3250e062e8cab"
-#API_KEY = "a576cb0dad7ba297a53872862848a881a065b5bb"
+API_KEY = ""
+#API_KEY = ""
 BASE_URL = "https://suggestions.dadata.ru/suggestions/api/4_1/rs/suggest/{}"
 region = "Красноярский"
 
